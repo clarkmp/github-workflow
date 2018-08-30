@@ -1,0 +1,17 @@
+h1, h2{
+    color: white;
+    font-family: "Baskerville Old Face";
+}
+body{
+    background-color: #50b0e4;
+}
+div{
+    font-size: larger;
+   font-family: Georgia;
+}
+ol{
+    font-family: "Courier New";
+}
+p{
+    font-size: larger;
+}
